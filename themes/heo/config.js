@@ -19,15 +19,15 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享python编程和效率工具',
-  HEO_HERO_TITLE_2: 'QMT策略、OB插件与财经知识',
+  HEO_HERO_TITLE_2: 'QMT策略、OB插件与财经知识——随机文章',
   HEO_HERO_TITLE_3: 'SANRENJZ.COM',
-  HEO_HERO_TITLE_4: '官网主页',
-  HEO_HERO_TITLE_5: '投资知识与数据',
+  HEO_HERO_TITLE_4: '投资知识与数据',
+  HEO_HERO_TITLE_5: '官方主页',
   HEO_HERO_TITLE_LINK: 'https://www.sanrenjz.com',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
+  HEO_HERO_CATEGORY_2: { title: '资源下载', url: '/tag/资源下载' },
   HEO_HERO_CATEGORY_3: { title: '证券开户', url: '/tag/证券开户' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
