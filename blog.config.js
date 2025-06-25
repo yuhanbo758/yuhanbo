@@ -19,7 +19,7 @@ const BLOG = {
   LINK: process.env.NEXT_PUBLIC_LINK || 'https://wd.sanrenjz.com', // 网站地址
   KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || '余汉波, 三人聚智, 博客, 证券开户, 效率工具, QMT量化交易, 财经知识', // 网站关键词 英文逗号隔开
   BLOG_FAVICON: process.env.NEXT_PUBLIC_FAVICON || '/favicon.ico', // blog favicon 配置, 默认使用 /public/favicon.ico，支持在线图片，如 https://img.imesong.com/favicon.png
-  BEI_AN: process.env.NEXT_PUBLIC_BEI_AN || '', // 备案号 闽ICP备XXXXXX
+  BEI_AN: process.env.NEXT_PUBLIC_BEI_AN || '粤ICP备2025366121号-1', // 备案号 闽ICP备XXXXXX
   BEI_AN_LINK: process.env.NEXT_PUBLIC_BEI_AN_LINK || 'https://beian.miit.gov.cn/', // 备案查询链接，如果用了萌备等备案请在这里填写
 
   // RSS订阅
