@@ -8,8 +8,13 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '三人聚智主页-更多工具', url: 'https://www.sanrenjz.com' },
+    { title: '访问文档中心获取更多帮助', url: 'https://docs.sanrenjz.com' },
+    { title: '程序小店-量化程序代码和效率工具', url: 'https://shop.sanrenjz.com' },
+    { title: 'yuhanbolh量化开源库文档', url: 'https://lh.sanrenjz.com/about' },
+    { title: 'yuhanboxl效率开源库文档', url: 'https://xl.sanrenjz.com/about' },
+    { title: 'H5在线工具', url: 'https://h5.sanrenjz.com' },
+    { title: 'api金融数据-数据调用和QMT跟单', url: 'http://api.sanrenjz.com' },
   ],
 
   // 英雄区左右侧组件颠倒位置
